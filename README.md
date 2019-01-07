@@ -24,6 +24,12 @@ Prim's alogrithm and theory
 
 
 ## Prim's Algorithm pseudocode
+
 ![prim](https://user-images.githubusercontent.com/37588249/50754850-6af1b600-129a-11e9-8e17-6f5f57f6c63a.PNG)
+
+
+## Analysis
+
+![analysis](https://user-images.githubusercontent.com/37588249/50755022-07b45380-129b-11e9-8085-d5795b37cf17.PNG)
 
 
