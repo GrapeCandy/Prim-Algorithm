@@ -23,7 +23,6 @@ Prim's alogrithm and theory
 [출처] https://blog.naver.com/cdndgml/221298861374
 
 
-
 ## Prim's Algorithm pseudocode
 <img src="http://i.imgur.com/ZPB9XaJ.png"></img>
 
