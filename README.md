@@ -4,6 +4,8 @@ Prim's alogrithm and theory
 
 ## Prim's Algorithm이란?
 - 가중치가 있는 연결된 undirected graph의 모든 꼭짓점을 포함하면서 각 node의 weight의 합이 최소가 되는 경로를 찾는 알고리즘
+
+
 <img src="https://postfiles.pstatic.net/MjAxODA2MTRfMTYx/MDAxNTI4OTY1MzU1MzQx.1Uc7UYRgpU6Gn75oXxZMJUTl4fgQEnsceM5PXIYxvEYg.Tfzt1rP9y6uI21AKsJ5WMDtGOJCY540aNUPHEOdSg5sg.PNG.cdndgml/%EA%B7%B8%EB%A6%BC0.png?type=w773"></img>
 
 <img src="https://postfiles.pstatic.net/MjAxODA2MTRfMjA4/MDAxNTI4OTY1NDA1Nzg2.bQiFcvAB3PMfn3WU0iWkSX4SK_qLJOJdDomfDpRwxfkg.UtjrCrj-q0G17Y05U-_PfjP94svavEMu8iehGl-eAWkg.PNG.cdndgml/%EA%B7%B8%EB%A6%BC1.png?type=w773"></img>
