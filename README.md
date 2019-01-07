@@ -24,6 +24,6 @@ Prim's alogrithm and theory
 
 
 ## Prim's Algorithm pseudocode
-<img src="http://i.imgur.com/ZPB9XaJ.png"></img>
+![prim](https://user-images.githubusercontent.com/37588249/50754850-6af1b600-129a-11e9-8e17-6f5f57f6c63a.PNG)
 
 
